@@ -15,7 +15,9 @@ Advancements in Speech Technology: Explores the integration of innovative tools 
 Methodology
 The methodology for this project involves the following:
 
-Data Collection: Using a balanced dataset of normal and dysarthric speech samples.
+Dataset:  The dataset we use in the project is the TORGO dataset. It contains speeches from healthy controls and patients with dysarthria. The link to the dataset: https://www.cs.toronto.edu/~complingweb/data/TORGO/torgo.html
+Reference: Rudzicz, F., Hirst, G., Van Lieshout, P. (2012) Vocal tract representation in the recognition of cerebral palsied speech. The Journal of Speech, Language, and Hearing Research, 55(4):1190-1207, August.
+
 Model Design: Developing baseline and advanced machine learning models, including logistic regression and CNNs.
 Training and Testing: Training models on speech datasets and evaluating their performance to distinguish between normal and dysarthric speech.
 Project Structure
