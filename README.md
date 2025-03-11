@@ -1,4 +1,4 @@
-# Api-Dysarthic-Speech
+# Dysarthria automatic detection --- Audio processing and indexing project
 Dysarthric Speech Detection Using Model-Based Methods
 Introduction
 Speech disorders, also known as speech impairments, are communication disorders characterized by disruptions in normal speech production. These disruptions can manifest as difficulties in forming clear, intelligible speech sounds. Conditions such as dysarthria, apraxia, aphasia, dyslexia, and degenerative diseases like Alzheimer’s are categorized as speech disorders. These issues can arise from various causes, including strokes, accidents, or congenital defects.
